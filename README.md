@@ -1,6 +1,6 @@
 # Tesla Stock Sales Analysis Dashboard (Power BI & DAX)
 
-### Dashboard : [Insert Power BI Service Link Here]
+###  [Dashboard Link](https://app.fabric.microsoft.com/view?r=eyJrIjoiNzdjNDljYzctZDg4Zi00ZWQ3LTliMmMtYzNmZjUwMDZmYmE4IiwidCI6ImViOGQyOTdiLTQyNWYtNDcyNy05N2QzLTkzNWE3NjlkNDhmOCJ9)
 <img width="1267" height="712" alt="desktop" src="https://github.com/user-attachments/assets/70035905-6374-41bf-aeea-6d40f160da55" />
 
 ## Project Overview
