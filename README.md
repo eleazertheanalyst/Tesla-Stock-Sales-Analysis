@@ -8,6 +8,11 @@ This project analyzes Tesla used vehicle inventory and stock sales data across m
 The dataset required structured data modeling, calculated columns, and disconnected slicer parameter engineering in Power BI to allow stakeholders to dynamically switch between vehicle models (`Cyber Truck`, `Model 3`, `Model S`, `Model X`, `Model Y`)—including dynamic 3D Sketchfab model rendering—and filter by vehicle condition (`No Accidents` vs. `Previously Repaired`)
 Using Power BI and DAX, an interactive dark-mode executive dashboard was built to uncover pricing drivers, regional valuation differences, and feature-based price premiums.
 
+### Key Takeaways at a Glance
+* **Baseline Valuation:** Selected inventory averages **$45.11K** with a median odometer of **28.67K miles** and an average monthly EMI of **$710.42**.
+* **Feature Price Elasticity:** **Full Self-Driving (FSD)** commands a **~$7.1K price premium** over base Autopilot ($47.03K vs. $39.89K).
+* **Geographic Arbitrage:** Low-mileage markets like **Oregon** (12.16K avg. miles) and **Tennessee** (21.51K avg. miles) offer prime sourcing opportunities for high-valuation markets like **Massachusetts ($51.65K)** and **Virginia ($51.40K)**.
+
 ## Business Objective
 The primary objectives of this analysis were to:
 -	Analyze average vehicle pricing, median odometer readings, and average monthly EMI across Tesla models
