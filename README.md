@@ -217,16 +217,5 @@ IF(
 -	**DAX:** Dynamic `SELECTEDVALUE` routing, calculated columns (`SWITCH`), statistical aggregations (`AVERAGE`, `MEDIAN`), conditional ratios (`CALCULATE`, `DIVIDE`, `COUNTROWS`), KPI sparklines
 -	**Data Analysis:** Multi-dimensional pricing elasticity analysis, geographic mileage-to-price correlation, trim feature valuation
 
-
-# Project Status
-| Project Component | Status |
-| :--- | :--- |
-| Data validation & ingestion | Completed |
-| Slicer selector tables & 3D URL integration | Completed |
-| Calculated columns & DAX KPI measures | Completed |
-| Interactive dark-theme dashboard | Completed |
-| Business insights and recommendations | Completed |
-
----
 **Project Focus:** End-to-End Data Analytics | Automotive Pricing Intelligence | Business Intelligence  
 **Author:** Eleazer Tabi Serebour
